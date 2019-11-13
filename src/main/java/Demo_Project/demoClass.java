@@ -17,7 +17,6 @@ public class demoClass {
 	}
 	public void browser_close() {
 		driver.close();
-		System.out.println("Successfully closed the Project");
 	}
 
 }
