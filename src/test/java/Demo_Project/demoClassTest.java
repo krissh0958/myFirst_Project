@@ -19,6 +19,7 @@ public class demoClassTest {
   @AfterTest
   public void close_Test() {
 	  demo.browser_close();
+
   }
 
 }
